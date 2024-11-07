@@ -2,7 +2,7 @@
 #### MULTI DEVICE WHATSAPP BOT ULTRA | STILL MANY HIDDEN COMMANDS
 
 <p align="center">  
-  <a href="https://youtu.be/oXQjl39Bl7M">
+  <a href="https://youtu.be/nE4v4KWBfAU">
     <img alt="ULTRA" src="https://i.ibb.co/5v4vrfR/20241021-033752.jpg">
     <h1 align="center">ULTRA-MD 3.O</h1>
   </a>
@@ -27,14 +27,24 @@
 ### Bot Is Able To Reply In 5 Different Languages So Use .language command First After Getting Connection And Choose Your Native Language If It Is There, If Your Native Language Is Not Present There Then Choose en For English.
 
 ----
+
  <p align="center"><img src="https://profile-counter.glitch.me/{ULTRA-MD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
-----
 
 ----
-  <a href="https://github.com/GlobalTechInfo/ULTRA-MD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK-ULTRA MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+
+<h1 align="center"> EXTERNAL PLUGINS </h1>
+
+<p align="center">
+<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/ULTRA MD-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<p/>
 
   
 ----
+
+  <a href="https://github.com/GlobalTechInfo/ULTRA-MD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK-ULTRA MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+
+----
+
 <p align="center">
 
 1. #### First Method
@@ -73,7 +83,7 @@ Get Creds.json (Server 1)
 ----
 Get Creds.json (Server 2)
     <br>
-<a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='SERVER 2' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@qasimali1st/ULTRA-PAIRING#main.sh' target="_blank"><img alt='SERVER 2' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 set the Env Vars.
@@ -110,13 +120,6 @@ set the Env Vars.
 
 ----
 
-_Heroku is not gonna work with creds.json for this bot only. So replace this number_
-
-_golbal.botNumber='923051391007'_
-_with your number in config.js_
-
-_Then in Deployment terminal It will Shows you a pairing code at the end of Deployment, Pair with your WhatsApp and enjoy._
-
 3. #### DEPLOY TO HEROKU
 
  If You don't have an account in Heroku. Create a account.
@@ -126,11 +129,26 @@ _Then in Deployment terminal It will Shows you a pairing code at the end of Depl
 Now Deploy
    <br>
  <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/GlobalTechInfo/Bypass">
+  <a href="https://heroku.com/deploy?template=https://github.com/GlobTechInfo/Bypass">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </div>
 
+----
+
+3. #### DEPLOY IN PANEL
+
+<br>
+   <p align="center"><a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
+src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white' width="220" height="38.45"/></a>
+
+----
+
+  5. #### TUTORIAL FOR PANEL
+  
+  <br>
+   <p align="center"><a href="https://youtu.be/nE4v4KWBfAU"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/nE4v4KWBfAU" width="220" height="38.45"/><br>
+  
 ----
 
 4. #### DEPLOY TO KOYEB
@@ -198,6 +216,9 @@ apt install -y webp git ffmpeg curl imagemagick
 ```
 apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
+```
+```
+apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 ```
 ```
 git clone https://github.com/<your gitHub Username>/ULTRA-MD
